@@ -8,7 +8,10 @@ Juan Felipe Martínez\
 https://github.com/user-attachments/assets/90979713-b7ac-46d3-8e00-9d40c18f3066
 
 
-<img width="1414" height="698" alt="Ejercicio 2 - Slash" src="https://github.com/user-attachments/assets/057849b9-e178-42da-bb10-ceb8f4f01c3c" />
+
+https://github.com/user-attachments/assets/96989130-bf33-4a9a-9c40-4328b66bc5f5
+
+
 
 
 
