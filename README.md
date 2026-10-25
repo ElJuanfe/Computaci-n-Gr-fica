@@ -1,7 +1,11 @@
 ### Integrantes del equipo:
 Juan Diego Maldonado,\
 Valeria Cecilia Blanquicett, \
-Juan Felipe Martínez\
+Juan Felipe Martínez 
+
+### Ejercicio 1 - Heal
+
+https://github.com/user-attachments/assets/df0bb45a-6f2b-4cd2-93c7-dd33d44fe7d8
 
 ### Ejercicio 2 - Slash
 
