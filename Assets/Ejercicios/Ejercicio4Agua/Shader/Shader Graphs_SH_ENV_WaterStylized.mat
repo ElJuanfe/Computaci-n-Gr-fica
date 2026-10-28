@@ -24,10 +24,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _CausticsTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _Cubemap:
         m_Texture: {fileID: 8900000, guid: c9547be4b69c9a34d8f262316a70e91f, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -62,7 +58,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _FoamAmount: 1.36
+    - _FoamCutoff: 1
     - _FoamIntensity: 2.3
+    - _FoamScale: 50
+    - _FoamSpeed: 0.05
     - _ParallaxDepth: 1.7
     - _ParallaxIntensity: 16.45
     - _QueueControl: 0
@@ -71,7 +71,6 @@ Material:
     - _TransmittancePower: 0.74
     m_Colors:
     - _AbsoptionColor: {r: 0.023529412, g: 0.28235295, b: 0.45882353, a: 1}
-    - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _DeformationParams: {r: 0.1, g: -0.05, b: -10, a: 0.01}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamST: {r: 0.04, g: 0.04, b: 0.1, a: 0}
