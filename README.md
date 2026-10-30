@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/53c49164-5700-460b-9226-a694ba2c43ea
 ### Integrantes del equipo:
 Juan Diego Maldonado,\
 Valeria Cecilia Blanquicett, \
@@ -14,6 +16,11 @@ https://github.com/user-attachments/assets/90979713-b7ac-46d3-8e00-9d40c18f3066
 
 
 https://github.com/user-attachments/assets/96989130-bf33-4a9a-9c40-4328b66bc5f5
+
+### Ejercicio 3 - Water
+
+https://github.com/user-attachments/assets/68189adc-b87d-4d69-9ff9-64855a21225e
+
 
 
 
