@@ -4534,7 +4534,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_RefractionSpeed",
     "m_StageCapability": 2,
-    "m_Value": 2.9000000953674318,
+    "m_Value": 2.490000009536743,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -5722,7 +5722,7 @@
     "m_ObjectId": "1e709742dd084438ac6b5530faf9c152",
     "m_Title": "Displacement",
     "m_Position": {
-        "x": 4135.99951171875,
+        "x": 4136.0,
         "y": 289.0
     }
 }
@@ -8448,8 +8448,8 @@
     "m_ObjectId": "4859045381fe4584bc513e23a94bf325",
     "m_Title": "Texel Size",
     "m_Position": {
-        "x": 850.999755859375,
-        "y": 1878.9998779296875
+        "x": 851.0,
+        "y": 1879.0
     }
 }
 
@@ -8681,8 +8681,8 @@
     "m_ObjectId": "4c896b85c2ae498dbd8aadf2f165befe",
     "m_Title": "World Space ST",
     "m_Position": {
-        "x": 1078.999755859375,
-        "y": 4475.0
+        "x": 1079.0,
+        "y": 4474.99951171875
     }
 }
 
@@ -9200,10 +9200,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 5239.0,
-            "y": 1965.0,
-            "width": 266.0,
-            "height": 375.0
+            "x": 5012.00048828125,
+            "y": 1950.0001220703125,
+            "width": 268.0,
+            "height": 375.0001220703125
         }
     },
     "m_Slots": [
@@ -11299,7 +11299,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_RefractionStrength",
     "m_StageCapability": 2,
-    "m_Value": 0.25999999046325686,
+    "m_Value": 1.9600000381469727,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -12340,8 +12340,8 @@
     "m_ObjectId": "823c6102e7f64a5a86c800eb54a1ad91",
     "m_Title": "Parallax Max",
     "m_Position": {
-        "x": 913.999755859375,
-        "y": 3068.999755859375
+        "x": 914.0,
+        "y": 3069.0
     }
 }
 
@@ -13349,8 +13349,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 5583.111328125,
-            "y": 2503.111083984375,
+            "x": 5589.00048828125,
+            "y": 2506.000244140625,
             "width": 208.0,
             "height": 302.0
         }
@@ -15339,7 +15339,7 @@
     "m_ObjectId": "a492a5a91d1741edb30e08d3af9ce85b",
     "m_Title": "Foam Surface Mask",
     "m_Position": {
-        "x": 1063.999755859375,
+        "x": 1064.0,
         "y": 4757.0
     }
 }
@@ -17657,8 +17657,8 @@
     "m_ObjectId": "c794f45c5a6248aead21dc0e376fc3e7",
     "m_Title": "Parallax ST",
     "m_Position": {
-        "x": -1303.0,
-        "y": 3067.999755859375
+        "x": -1302.99951171875,
+        "y": 3068.0
     }
 }
 
@@ -21493,7 +21493,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "_RefractionScale",
     "m_StageCapability": 2,
-    "m_Value": 3.9200000762939455,
+    "m_Value": 1.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }

@@ -71,7 +71,7 @@ Material:
     - _TransmittancePower: 0.74
     m_Colors:
     - _AbsoptionColor: {r: 0.023529412, g: 0.28235295, b: 0.45882353, a: 1}
-    - _DeformationParams: {r: 0.1, g: -0.05, b: -10, a: 0.01}
+    - _DeformationParams: {r: 0.1, g: -0.05, b: -10, a: 0.02}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamST: {r: 0.04, g: 0.04, b: 0.1, a: 0}
     - _IntersectionParams: {r: 0, g: 0.5, b: 0, a: 0}
