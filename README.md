@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/53c49164-5700-460b-9226-a694ba2c43ea
 ### Integrantes del equipo:
 Juan Diego Maldonado,\
 Valeria Cecilia Blanquicett, \
